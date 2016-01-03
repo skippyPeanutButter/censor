@@ -1,8 +1,16 @@
 {
 	"author": "Luis Ortiz",
-	"name": "censorify",
+	"name": "lortiz_censorify",
 	"version": "0.1.1",
 	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/skippyPeanutButter/censor"
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],
 	"dependencies": {},
 	"engines": {
 		"node": "*"
